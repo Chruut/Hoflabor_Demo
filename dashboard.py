@@ -3,15 +3,15 @@ import panel as pn
 import pyvista as pv
 import hvplot.pandas
 import vtk
+import matplotlib as plt
+import numpy as np
 from math import pi
 from bokeh.io import show
 from bokeh.models import (AnnularWedge, ColumnDataSource, Legend, LegendItem, Plot, Range1d, Label)
 if not pn.state.loaded:
     pn.extension('tabulator', 'vtk')
 #supplementary packages
-#import numpy as np
 #from pyvista import examples
-#import matplotlib as plt
 
 
 # Load the data into a DataFrame format  
