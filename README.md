@@ -12,7 +12,8 @@ The main application is "dashboard.py" where the .csv data is fed into a pipelin
 1. Download all the files into a folder
 2. Open the folder in your IDE (i.e. Visual Studio Code)
 3. Create a .venv programming environment
-4. Install the package requirements using the requirements.txt file
+4. Install the package requirements using the requirements.txt file:
+pip install -r requirements.txt  
 5. Host the Website 
    In the terminal of the programming environment run: panel serve dashboard.py --dev
 6. Visit the website that is printed in the terminal 
