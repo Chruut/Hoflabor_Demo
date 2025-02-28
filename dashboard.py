@@ -1,6 +1,7 @@
 import pandas as pd
 import panel as pn
 import pyvista as pv
+import hvplot.pandas
 import vtk
 from math import pi
 from bokeh.io import show
@@ -9,7 +10,6 @@ if not pn.state.loaded:
     pn.extension('tabulator', 'vtk')
 #supplementary packages
 #import numpy as np
-#import hvplot.pandas
 #from pyvista import examples
 #import matplotlib as plt
 
