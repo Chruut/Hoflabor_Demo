@@ -2,6 +2,8 @@
 Interactive Dashboard/Web-App of simulated environmental field data taken from hypothetical farm
 
 ## Preview
+![Dashboard_demo](https://github.com/user-attachments/assets/c7a7c01b-9223-4b24-881c-5c193b71d09a)
+
 ![Preview](https://github.com/user-attachments/assets/0d22cfee-d16d-48d9-9df2-b61e8aa84d72)
 
 ## Description
