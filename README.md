@@ -4,8 +4,6 @@ Interactive Dashboard/Web-App of simulated environmental field data taken from h
 ## Preview
 ![Dashboard_demo](https://github.com/user-attachments/assets/c7a7c01b-9223-4b24-881c-5c193b71d09a)
 
-![Preview](https://github.com/user-attachments/assets/0d22cfee-d16d-48d9-9df2-b61e8aa84d72)
-
 ## Description
 A simulation of temperature, soil humidity and biodiversity data is created in "daten_simulator.py" which creates a .csv file with the data.
 The main application is "dashboard.py" where the .csv data is fed into a pipeline and prepared to be displayed as panels in a Web-Browser. 
