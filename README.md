@@ -2,7 +2,7 @@
 Interactive Dashboard/Web-App of simulated environmental field data taken from hypothetical farm
 
 ## Preview
-![firefox_jOIDtQYPwv](https://github.com/user-attachments/assets/be91e9d3-cba6-4ce2-b590-a6674efdc746)
+![firefox_mP2ainwMT8](https://github.com/user-attachments/assets/69e3af05-5cee-4c6f-b031-979f420e037b)
 
 ## Description
 A simulation of temperature, soil humidity and biodiversity data is created in "daten_simulator.py" which creates a .csv file with the data.
